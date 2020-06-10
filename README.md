@@ -8,10 +8,8 @@
 	* It has to be something they know well.
 	* Students need to plan what are the requirements they need to pass to the team that will be testing.
 	* The testers/requirements gathers will be soliciting the specific requirements from them.
+	* SME should avoid  telling the application they are replicating (should be presented as a fictitious app)
 
-Note: SME should avoid  telling the application they are replicating (should be presented as a fictitious app)
-
-EXERCISE:
 
 ### Part 1 - Assigning Roles
 * Instructor will break the classroom down to groups of 4 to 5 students.
